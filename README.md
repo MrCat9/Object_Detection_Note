@@ -10,7 +10,11 @@ mAP对比 https://zhuanlan.zhihu.com/p/73801735
 
 https://github.com/rbgirshick/py-faster-rcnn
 
-#### 3_CenterNet
+#### 3_yolo
+
+https://pjreddie.com/darknet/yolo/
+
+#### 4_CenterNet
 
 论文精读——CenterNet :Objects as Points https://blog.csdn.net/c20081052/article/details/89358658
 
